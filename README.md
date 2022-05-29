@@ -9,10 +9,10 @@
 - Product Details
 
 #### Libraries requirements
--from bs4 import BeautifulSoup
--from urllib.request import urlopen
--import requests
--import json
--import re
+- from bs4 import BeautifulSoup
+- from urllib.request import urlopen
+- import requests
+- import json
+- import re
 
 **Total of 100 URLs are used and are in .txt file**
